@@ -1,5 +1,12 @@
 # Code Refactor Starter Code
+-code edited by Lillie Lovatt 5/9/2022
 
+Index.html file creates marketing agency website for Horiseon webpage, with best practices using elements and naming conventions.
+
+Style.css file creates design for the website.
+
+
+My instructions:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -24,6 +31,6 @@ THEN I find a concise, descriptive title
 
 
 
-Added correct href ID to search-engine-optimization
-Added empty alts to images without description
+-Added correct href ID to search-engine-optimization
+-Added empty alts to images without description
 
